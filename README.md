@@ -16,7 +16,7 @@ The analysis of the Seattle Airbnb dataset will involve exploring and visualizin
 - Are there any seasonal trends in the availability and pricing of listings?
 - What are the most common amenities provided by Airbnb hosts in Seattle?
 
-The analysis will be performed using Python and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn. The code for the analysis can be found in the [analysis.ipynb](analysis.ipynb) Jupyter Notebook.
+The analysis will be performed using Python and popular data analysis libraries such as Pandas, Matplotlib, and Seaborn. The code for the analysis can be found in the [analysis.ipynb][(https://github.com/subhopam-das-personal/seattle-airbnb-data-analysis/blob/a73d553c494fd9721af495ae535c64d33750060a/seattle-airbnb-medium.ipynb)] Jupyter Notebook.
 
 ## Results
 
