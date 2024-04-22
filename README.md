@@ -34,3 +34,7 @@ To reproduce the analysis, follow these steps:
 
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
 
+
+## Source Code
+The source code for this project is available on GitHub: [GitHub Repository](https://github.com/your-username/seattle-airbnb-data-analysis)
+
