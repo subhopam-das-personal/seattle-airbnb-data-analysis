@@ -36,3 +36,7 @@ Contributions to this project are welcome. If you have any suggestions or improv
 
 ## Source Code
 The source code for this project is available on GitHub: [GitHub Repository](https://github.com/your-username/seattle-airbnb-data-analysis)
+
+## Blog post
+
+https://medium.com/@subhopam/exploring-seattle-airbnb-insights-from-open-data-0b67a80cba59
